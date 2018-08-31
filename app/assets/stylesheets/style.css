@@ -1,0 +1,202 @@
+.navbar_edited
+{
+    z-index: 1!important;
+    box-shadow: rgb(187, 187, 187) 0px 1px 3px!important;
+    /* position: fixed!important; */
+    /* top: 45px !important; */
+    width: 100%!important;
+    background-color: #FEFEFE!important;
+}
+/* .nav_bar_top{
+  z-index: 1 !important;
+  top: 0px !important;
+  width: 100% !important;
+} */
+.drop_btn_edit{
+  background-color: #FEFEFE;
+  color: rgb(62, 62, 62);
+  font-size: 14px !important;
+}
+
+.dropdown{
+  margin-left: 8px;
+}
+
+.drop_btn_edit:hover {
+  background-color: #e9e9ea;
+}
+
+.btn:focus {
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+
+.dropdown_menu_edited_holidays {
+  top: 125% !important;
+  width: 500%;
+  height: 700%;
+  left: -17% !important;
+}
+
+.dropdown_menu_edited{
+  top: 125% !important;
+}
+
+.dropdown_change_in_color:hover{
+  background-color: #49b795;
+  color: white;
+}
+
+.nav_bar_list{
+  display: inherit;
+  width: 100%;
+}
+
+.destination_guides
+{
+  right: 2%;
+  position: absolute !important;
+
+}
+/* .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ } */
+
+ /* now css for footer  */
+ .footer {
+      padding: 32px 0px 40px;
+       height: 43vh;
+       width: 100vw;
+       bottom: 0;
+       position: relative;
+       background-color: rgb(62, 62, 62);
+
+ }
+ .footer_li_a {
+   font-size: 12px;
+    line-height: 16px;
+    color: rgb(255, 255, 255);
+    padding: 0px;
+    margin: 0px;
+ }
+ .footer_li
+ {
+   margin-right: 15px!important;
+   margin-bottom: 8px!important;
+   display: inline-block;
+   position: relative;
+ }
+ .footer_div
+ {
+   width: 47.66666667%;
+   display: inline-block;
+   margin-left: 3%;
+ }
+ .contact_details_footer{
+    color: rgb(255, 255, 255)!important;
+    font-weight: 700;
+    display: block;
+    float: right;
+    clear: both;
+    line-height: 18px;
+    margin: 0px 0px 8px;
+ }
+ .contact_details_div{
+   font-family: sans-serif;
+    right: 12%;
+    position: absolute;
+    top: 19%;
+    font-size: 14px;
+ }
+ .icons_call
+ {
+   height: 18px;
+    right: 48%;
+    position: absolute;
+ }
+ .icons_mail
+ {
+   height: 18px;
+    right: 104%;
+    position: absolute;
+ }
+ .footer_address{
+   color: rgb(255, 255, 255);
+   font-size: 12px;
+   margin-bottom: 0px;
+ }
+ .footer_corporate{
+   position: absolute;
+   left: 6%;
+ }
+ .connect_with_us_a
+ {
+   margin-left: 5px;
+   margin-right: 5px;
+ }
+ .footer_connect_with_us_p
+ {
+   color: rgb(255, 255, 255);
+   font-size: 12px;
+   margin-bottom: 10px;
+ }
+ .footer_connect_with_us_div
+ {
+   position: absolute;
+   left: 35%;
+ }
+ .footer_font_awesome
+ {
+   margin-left: 5px;
+   margin-right: 5px;
+ }
+ .footer_icons_last
+ {
+   position: absolute;
+    left: 6%;
+    bottom: 20px;
+ }
+ .footer_copyright
+ {
+   color: rgb(255, 255, 255);
+   font-size: 12px;
+ }
+ .footer_copyright_div
+ {
+   position: absolute;
+   right: 12%;
+   bottom: 10px;
+ }
+ .footer_made_with_love_div{
+   position: absolute;
+   right: 50%;
+   bottom: 10px;
+ }
+/* search bar css is written below  */
+.search_bar
+{
+  background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+  height: 60vh;
+}
+.Search_bar_div
+{
+  position: relative;
+    padding: 2.5rem;
+    padding-bottom: 0;
+}
+.heading_search_div
+{
+  font-size: 2.5rem;
+line-height: 1.4;
+text-align: center;
+font-weight: 900;
+color: rgb(62, 62, 62);
+}
+.sub_heading_search_div
+{
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    font-weight: 300;
+}
